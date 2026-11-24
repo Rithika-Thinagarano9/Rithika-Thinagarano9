@@ -1,8 +1,8 @@
 ## Hi there 👋
--I am Rithika.T ,First year B.Tech IT student @ Saveetha engineering college 
--🌱currently learning python coding language 🐍
--🌷I'm interested in logical thinking 🤔and problem solving skills
--currently improving my communication and public speaking skills
+- I am Rithika.T ,First year B.Tech IT student @ Saveetha engineering college 
+- 🌱currently learning python coding language 🐍
+- 🌷I'm interested in logical thinking 🤔and problem solving skills
+- currently improving my communication and public speaking skills
 <!--
 **Rithika-Thinagarano9/Rithika-Thinagarano9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
