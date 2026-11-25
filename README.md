@@ -4,6 +4,7 @@
 - 🌱currently learning python programming 🐍
 - 🌷Interested in logical thinking and problem solving skills
 - 🔧 improving my communication and public speaking skills
+- 📚 Always curious to learn new things and improve my technical knowledge.
 # ⭐ Learning | Exploring | Building | Growing
 <!--
 **Rithika-Thinagarano9/Rithika-Thinagarano9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
